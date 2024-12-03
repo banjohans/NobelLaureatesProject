@@ -1,0 +1,14 @@
+/Users/hansmartinaustestad/Documents/Kodehode/2024.12.02 C# Oppgave/NobelLaureatesProject/bin/Debug/net8.0/NobelLaureatesProject
+/Users/hansmartinaustestad/Documents/Kodehode/2024.12.02 C# Oppgave/NobelLaureatesProject/bin/Debug/net8.0/NobelLaureatesProject.deps.json
+/Users/hansmartinaustestad/Documents/Kodehode/2024.12.02 C# Oppgave/NobelLaureatesProject/bin/Debug/net8.0/NobelLaureatesProject.runtimeconfig.json
+/Users/hansmartinaustestad/Documents/Kodehode/2024.12.02 C# Oppgave/NobelLaureatesProject/bin/Debug/net8.0/NobelLaureatesProject.dll
+/Users/hansmartinaustestad/Documents/Kodehode/2024.12.02 C# Oppgave/NobelLaureatesProject/bin/Debug/net8.0/NobelLaureatesProject.pdb
+/Users/hansmartinaustestad/Documents/Kodehode/2024.12.02 C# Oppgave/NobelLaureatesProject/obj/Debug/net8.0/NobelLaureatesProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hansmartinaustestad/Documents/Kodehode/2024.12.02 C# Oppgave/NobelLaureatesProject/obj/Debug/net8.0/NobelLaureatesProject.AssemblyInfoInputs.cache
+/Users/hansmartinaustestad/Documents/Kodehode/2024.12.02 C# Oppgave/NobelLaureatesProject/obj/Debug/net8.0/NobelLaureatesProject.AssemblyInfo.cs
+/Users/hansmartinaustestad/Documents/Kodehode/2024.12.02 C# Oppgave/NobelLaureatesProject/obj/Debug/net8.0/NobelLaureatesProject.csproj.CoreCompileInputs.cache
+/Users/hansmartinaustestad/Documents/Kodehode/2024.12.02 C# Oppgave/NobelLaureatesProject/obj/Debug/net8.0/NobelLaureatesProject.dll
+/Users/hansmartinaustestad/Documents/Kodehode/2024.12.02 C# Oppgave/NobelLaureatesProject/obj/Debug/net8.0/refint/NobelLaureatesProject.dll
+/Users/hansmartinaustestad/Documents/Kodehode/2024.12.02 C# Oppgave/NobelLaureatesProject/obj/Debug/net8.0/NobelLaureatesProject.pdb
+/Users/hansmartinaustestad/Documents/Kodehode/2024.12.02 C# Oppgave/NobelLaureatesProject/obj/Debug/net8.0/NobelLaureatesProject.genruntimeconfig.cache
+/Users/hansmartinaustestad/Documents/Kodehode/2024.12.02 C# Oppgave/NobelLaureatesProject/obj/Debug/net8.0/ref/NobelLaureatesProject.dll
